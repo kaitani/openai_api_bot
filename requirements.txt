@@ -1,5 +1,4 @@
 streamlit
 openai==0.28.1
-%%capture
 langchain==0.0.340
 llama-index==0.9.7
