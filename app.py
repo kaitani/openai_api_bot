@@ -1,13 +1,5 @@
 from openai import AsyncOpenAI
 from openai import OpenAI
-import os
-from selenium.common.exceptions import NoSuchElementException
-# from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium import webdriver
-import time
-from enum import Enum
-import requests
 
 import os  # OpenAI ChatCompletionのAPIキー
 # from openai import AsyncOpenAI
